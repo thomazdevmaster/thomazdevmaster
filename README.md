@@ -1,5 +1,4 @@
-# 🤵 minhabio-gcc259
-
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/thomazdevmaster/thomazdevmaster/blob/main/assets/header.png"></div>
 ## ![Profile](./profile.png)
 
 [![Linkedin](./download.webp)](www.linkedin.com/in/thomaz-flanklin-Dev)
