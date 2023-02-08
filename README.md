@@ -90,6 +90,16 @@
 
 ---
 
+<h2>🎧 Ouvindo</h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=8c00ff)](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&redirect=true)
+
+<details>
+    <summary>Ver as últimas 10 músicas que eu ouvi</summary>
+    <a href="https://open.spotify.com/user/2996cf26fcbc4ebc9c30b4b9fbe826d8"><img src="https://spotify-recently-played-readme.vercel.app/api?user=2996cf26fcbc4ebc9c30b4b9fbe826d8&unique=true&count=10" alt="Spotify tocadas recentemente"></a>
+</details>
+
+
 ### 🎯 Objetivo
 
 Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de forma organizada e rápida, fazendo o possível para manter a qualidade.
