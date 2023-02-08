@@ -1,20 +1,107 @@
-<a><img src="https://raw.githubusercontent.com/thomazdevmaster/minha-bio/main/header.gif" width="100%" height="auto"/></a>
 
-[![Linkedin](./images/download.webp)](www.linkedin.com/in/thomaz-flanklin-Dev)
-======
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/thomazdevmaster/thomazdevmaster/blob/main/assets/header.png"></div>
-## ![Profile](./profile.png)
+<div align="center" >
+  <img width="100%" alt="welcome to my profile!" src="https://github.com/thomazdevmaster/thomazdevmaster/blob/main/assets/header.gif?raw=true">
+</div>
 
-[![Linkedin](./download.webp)](www.linkedin.com/in/thomaz-flanklin-Dev)
+<h3 align="center"><i> Não é a linguagem que faz os programas parecerem simples. É o programador que faz a linguagem parecer simples! _(Uncle Bob)</i></h3>
 
-Thomaz Flanklin de Souza Jorge
-===
+---
+---
+
+
+<h3>ℹ️ Project Info
+  <div align="center">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/thomazdevmaster/thomazdevmaster?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="25px">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/thomazdevmaster/thomazdevmaster?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="25px">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/thomazdevmaster/thomazdevmaster?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="25px">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/thomazdevmaster/thomazdevmaster?color=F05032&logo=git&logoColor&style=for-the-badge" height="25px">
+    <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/thomazdevmaster/thomazdevmaster?color=F05032&logo=git&logoColor&style=for-the-badge" height="25px">
+  </div>
+</h3>
+
+---
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1><b>Olá, Sou Thomaz</b></h1>
+
+---
+
+<h2>🤝🏻 Me encontre em:&nbsp;&nbsp;&nbsp;
+  <div align="center">
+    <a href="https://github.com/thomazdevmaster">
+      <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/thomazdevmaster?style=for-the-badge&color=181717&logo=github&     logoColor=181717&label=@thomazdevmaster" height="30px">
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/thomaz-flanklin-Dev">
+      <img src="https://img.shields.io/badge/-Thomaz%20Jorge-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30px"/>
+    </a>
+    &nbsp;
+    <a href="mailto:thomazjorge.dev@google.com">
+      <img src="https://img.shields.io/badge/-thomazjorge.dev@google.com-D14836?style=flat&logo=Gmail&logoColor=white" height="30px"/>
+    </a>
+  </div>
+</h2>
+
+---
+
+<h2>👨🏻‍💻 Linguagens que gosto de estudar</h2>
+<code><img title="c++" alt="c++" src="https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor" /></code>
+<code><img title="c#" alt="c#" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor" /></code>
+<code><img title="css" alt="css" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="html" alt="html" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="java" alt="java" src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor" /></code>
+<code><img title="javascript" alt="javascript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" /></code>
+<code><img title="MySql" alt="MySql" src="https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor" /></code>
+<code><img title="php" alt="php" src="https://icongr.am/devicon/php-original.svg?size=50&color=currentColor" /></code>
+<code><img title="Python" alt="python" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" /></code>
+<code><img title="typescript" alt="typescript" src="https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor" /></code>
+
+---
+
+<h2>👨🏻‍💻 Tecnologias & frameworks</h2>
+<code><img title="Angular" alt="Angular" src="https://icongr.am/devicon/angularjs-original.svg?size=50&color=currentColor" /></code>
+<code><img title="Apache" alt="Apache" src="https://icongr.am/devicon/apache-original.svg?size=50&color=currentColor" /></code>
+<code><img title="css" alt="css" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="bootstrap" alt="bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=0084ff" /></code>
+<code><img title="Cucumber" alt="Cucumber" src="https://icongr.am/devicon/cucumber-plain-wordmark.svg?size=50&color=2bff00" /></code>
+<code><img title="debian" alt="debian" src="https://icongr.am/devicon/debian-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="Django" alt="Django" src="https://icongr.am/devicon/django-original.svg?size=50&color=currentColor" /></code>
+<code><img title="Docker" alt="Docker" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="git" alt="git" src="https://icongr.am/devicon/git-original-wordmark.svg?size=50&color=currentColor" /></code>
+
+<code><img title="github" alt="github" src="https://icongr.am/devicon/github-original-wordmark.svg?size=50&color=bdbdbd" /></code>
+<code><img title="gitlab" alt="gitlab" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="jquery" alt="jquery" src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="linux" alt="linux" src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor" /></code>
+<code><img title="nginx" alt="nginx" src="https://icongr.am/devicon/nginx-original.svg?size=50&color=currentColor" /></code>
+<code><img title="node" alt="node" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="npm" alt="npm" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="postgres" alt="postgres" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=currentColor" /></code>
+<code><img title="react" alt="react" src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor" /></code>
+
+---
+
+<h2>:gear: Analytics</h2>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thomazdevmaster&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomazdevmaster&layout=compact&langs_count=20&theme=highcontrast"/>
+</a>
+</p>
+
+---
 
 ### 🎯 Objetivo
 
 Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de forma organizada e rápida, fazendo o possível para manter a qualidade.
 
-> Não é a linguagem que faz os programas parecerem simples. É o programador que faz a linguagem parecer simples! _(Uncle Bob)_
+---
+
+### 👨‍🎓 Educação
+
+**_Universidade Federal de Lavras - UFLA_**
+
+- Bacharel em Sistemas de Informação
+- Mestrando em Ciência da Computação - engenharia de software
 
 ---
 
@@ -41,13 +128,6 @@ Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de
   - Instrutor de teste automatizados com ferramenta Cypress
   - Instrutor de Introdução ao Docker
 - Desenvolvedor de solução de georreferenciamento utilizando as ferramentas geo solutions (geonode, geoserver, mapstore)
-
-### 👨‍🎓 Educação
-
-**_Universidade Federal de Lavras - UFLA_**
-
-- Bacharel em Sistemas de Informação
-- Mestrando em Ciência da Computação - engenharia de software
 
 ---
 
