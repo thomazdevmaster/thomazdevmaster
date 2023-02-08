@@ -86,7 +86,7 @@
 
 <h2>:gear: Analytics</h2>
 <p align="center">
-<a href="https://github.com/thomazdevmaser">
+<a href="https://github.com/thomazdevmaster">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thomazdevmaster&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomazdevmaster&layout=compact&langs_count=20&theme=highcontrast"/>
 </a>
