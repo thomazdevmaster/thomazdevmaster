@@ -1,7 +1,12 @@
+<a><img src="https://raw.githubusercontent.com/thomazdevmaster/minha-bio/main/header.gif" width="100%" height="auto"/></a>
+
+[![Linkedin](./images/download.webp)](www.linkedin.com/in/thomaz-flanklin-Dev)
+======
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/thomazdevmaster/thomazdevmaster/blob/main/assets/header.png"></div>
 ## ![Profile](./profile.png)
 
 [![Linkedin](./download.webp)](www.linkedin.com/in/thomaz-flanklin-Dev)
+
 Thomaz Flanklin de Souza Jorge
 ===
 
