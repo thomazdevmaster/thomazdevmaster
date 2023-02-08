@@ -38,6 +38,10 @@
     <a href="mailto:thomazjorge.dev@google.com">
       <img src="https://img.shields.io/badge/-thomazjorge.dev@google.com-D14836?style=flat&logo=Gmail&logoColor=white" height="30px"/>
     </a>
+    &nbsp;
+    <a href="mailto:tume.tf@google.com">
+      <img src="https://img.shields.io/badge/-tume.tg@google.com-D14836?style=flat&logo=Gmail&logoColor=white" height="30px"/>
+    </a>
   </div>
 </h2>
 
@@ -92,21 +96,20 @@
 
 <h2>🎧 Ouvindo</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=8c00ff)](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&cover_image=true&theme=default&show_offline=true&background_color=121212&spin=true)](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&redirect=true)
 
-<details>
-    <summary>Ver as últimas 10 músicas que eu ouvi</summary>
-    <a href="https://open.spotify.com/user/2996cf26fcbc4ebc9c30b4b9fbe826d8"><img src="https://spotify-recently-played-readme.vercel.app/api?user=2996cf26fcbc4ebc9c30b4b9fbe826d8&unique=true&count=10" alt="Spotify tocadas recentemente"></a>
-</details>
+---
+---
 
+<details><summary>Ver mais</summary>
 
-### 🎯 Objetivo
+## 🎯 Objetivo
 
 Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de forma organizada e rápida, fazendo o possível para manter a qualidade.
 
 ---
 
-### 👨‍🎓 Educação
+## 👨‍🎓 Educação
 
 **_Universidade Federal de Lavras - UFLA_**
 
@@ -115,7 +118,7 @@ Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de
 
 ---
 
-### 🧑‍🔬 Experiência Profissional
+## 🧑‍🔬 Experiência Profissional
 
 1. Agência Zetta - fundecc UFLA
 
@@ -223,3 +226,8 @@ Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de
 - Treinamento sobre CI/CD ministrado para a **CompWeek 2021**
 - Treinamento sobre **git/gitlab** ministrado para desenvolvedores do projeto _pronassolos_.
 - Treinamento sobre **Docker** ministrado para equipes de desenvolvimento na empresa Zetta.
+</details>
+
+<img alt="animação da cobrinha de Carol42" src="https://raw.githubusercontent.com/Carol42/Carol42/4682092fd47ac26fbc01238ca6887d4cf97dc3f2/github-contribution-grid-snake.svg">
+
+créditos da animação [@Carol42](https://github.com/Carol42)
