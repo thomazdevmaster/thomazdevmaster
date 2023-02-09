@@ -64,7 +64,6 @@
 
 ---
 
-
 ## 🛠️ Tecnologias & frameworks
 
 <div align="center">
@@ -105,7 +104,7 @@
 
 ## 🎧 Ouvindo
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&cover_image=true&theme=default&show_offline=true&background_color=121212&spin=true)](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&spin=true)](https://spotify-github-profile.vercel.app/api/view?uid=tume.tf&redirect=true)
 
 ---
 
@@ -133,6 +132,7 @@
 
 
 ## 👨‍🎓 Educação
+
 <details>
 
 <img alt="estudando" src="./assets/estudando.gif" align="right" width="400px">
@@ -236,6 +236,7 @@
 | [Siout-SC](http://siout.aguas.sc.gov.br/)                   | .Net, Postgres, AspNet                      | Colaboração no desenvolvimento do sistema de outorga de Santa Catarina                                                                                                                                                                                 |
 | [P3M-Plataforma Mineral](https://p3m.cprm.gov.br/dashboard) | React, Django, Geonode, Geoserver, Postgres | Estruturação, arquitetura, backend, frontend                                                                                                                                                                                                           |
 </details>
+
 ---
 
 ---
@@ -243,18 +244,22 @@
 ### 🔍 Campo De Interesse
 
 <details>
+  
 - Qualidade de software
 - Arquitetura de software
 - Automação de processos
 - Design patterns
 - Qualidade de código
 - Devops
+  
  </details>
+ 
 ---
 
 ### 🌋 Atividades
 
 <details>
+  
 - Treinamento para analistas de qualidade da empresa Zetta, com foco em testes automatizados de interface utilizando ferramenta **cypress**
 - Treinamento para desenvolvedores da empresa zetta, apresentando princípios de **clean-code** e **solid**, ambos para aumentar a qualidade e boas práticas de programação
 - Treinamento para desenvolvedores da empresa zetta sobre testes unitários e integração
@@ -266,6 +271,7 @@
 - Treinamento sobre **Docker** ministrado para equipes de desenvolvimento na empresa Zetta.
 
 </details>
+
 ---
 
 <img alt="animação da cobrinha de Carol42" src="https://raw.githubusercontent.com/Carol42/Carol42/4682092fd47ac26fbc01238ca6887d4cf97dc3f2/github-contribution-grid-snake.svg">
