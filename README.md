@@ -40,7 +40,7 @@
     </a>
     &nbsp;
     <a href="mailto:tume.tf@google.com">
-      <img src="https://img.shields.io/badge/-tume.tg@google.com-D14836?style=flat&logo=Gmail&logoColor=white" height="30px"/>
+      <img src="https://img.shields.io/badge/-tume.tf@google.com-D14836?style=flat&logo=Gmail&logoColor=white" height="30px"/>
     </a>
   </div>
 </h2>
